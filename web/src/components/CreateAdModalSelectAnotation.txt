@@ -1,0 +1,70 @@
+{/* <Select.Root >
+                        <Select.Trigger aria-label='Games' className='bg-white rounded px-4 py-3 text-sm placeholder-zinc-500 appearance-none flex '>
+                            <Select.Value placeholder='Selecione o game que deseja jogar!'/>
+                            <Select.Icon>
+                                <CaretDown size={20} />
+                            </Select.Icon>
+                        </Select.Trigger>
+                        <Select.Portal>
+                            <Select.Content>
+                                <Select.ScrollUpButton>
+                                    <CaretUp />
+                                </Select.ScrollUpButton>
+                                <Select.Viewport className='p-3'>
+
+                                    <Select.Item value="lol">
+                                        <Select.ItemText>League of Legends</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+
+                                    <Select.Separator />
+
+                                    <Select.Item value="csgo">
+                                        <Select.ItemText>CS:GO</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+                                    
+                                    <Select.Separator />
+
+                                    <Select.Item value="wow">
+                                        <Select.ItemText>Word of Warcraft</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+
+                                    <Select.Separator />
+
+                                    <Select.Item value="dota">
+                                        <Select.ItemText>Dota 2</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+
+                                    <Select.Separator />
+
+                                    <Select.Item value="stardew">
+                                        <Select.ItemText>Stardew Valley</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+
+                                    <Select.Separator />
+
+                                    <Select.Item value="gta">
+                                        <Select.ItemText>Grand Theft Auto V</Select.ItemText>
+                                        <Select.ItemIndicator>
+                                        <Check />
+                                        </Select.ItemIndicator>
+                                    </Select.Item>
+
+                                </Select.Viewport>
+                            </Select.Content>
+                        </Select.Portal>
+                    </Select.Root> */}
